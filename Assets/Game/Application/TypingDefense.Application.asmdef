@@ -1,0 +1,17 @@
+{
+    "name": "TypingDefense.Application",
+    "rootNamespace": "TypingDefense.Application",
+    "references": [
+        "TypingDefense.Domain",
+        "TypingDefense.Simulation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

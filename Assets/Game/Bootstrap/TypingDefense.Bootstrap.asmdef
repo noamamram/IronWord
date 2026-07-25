@@ -1,0 +1,23 @@
+{
+    "name": "TypingDefense.Bootstrap",
+    "rootNamespace": "TypingDefense.Bootstrap",
+    "references": [
+        "TypingDefense.Domain",
+        "TypingDefense.Application",
+        "TypingDefense.Simulation",
+        "TypingDefense.Infrastructure",
+        "TypingDefense.Presentation",
+        "TypingDefense.Content",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

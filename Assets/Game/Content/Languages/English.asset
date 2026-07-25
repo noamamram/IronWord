@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596d77e8993b69e4e810a8a61b0eb5d2, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: TypingDefense.Content::TypingDefense.Content.Languages.TrainingLanguageProfile
+  _id: en
+  _displayName: English
+  _direction: 0
+  _allowedCharacters:
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - j
+  - k
+  - l
+  - m
+  - n
+  - o
+  - p
+  - q
+  - r
+  - s
+  - t
+  - u
+  - v
+  - w
+  - x
+  - y
+  - z
+  _tokens:
+  - Id: a
+    Text: a
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: b
+    Text: b
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: c
+    Text: c
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: d
+    Text: d
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: e
+    Text: e
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: f
+    Text: f
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: g
+    Text: g
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: h
+    Text: h
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: i
+    Text: i
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: j
+    Text: j
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: k
+    Text: k
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: l
+    Text: l
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: m
+    Text: m
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: n
+    Text: n
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: o
+    Text: o
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: p
+    Text: p
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: q
+    Text: q
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: r
+    Text: r
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: s
+    Text: s
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: t
+    Text: t
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: u
+    Text: u
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: v
+    Text: v
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: w
+    Text: w
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: x
+    Text: x
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: y
+    Text: y
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: z
+    Text: z
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  _caseInsensitive: 1
+  _mapHebrewFinalLetters: 1
+  _stripHebrewDiacritics: 1

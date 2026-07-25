@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596d77e8993b69e4e810a8a61b0eb5d2, type: 3}
+  m_Name: Hebrew
+  m_EditorClassIdentifier: TypingDefense.Content::TypingDefense.Content.Languages.TrainingLanguageProfile
+  _id: he
+  _displayName: "\u05E2\u05D1\u05E8\u05D9\u05EA"
+  _direction: 1
+  _allowedCharacters:
+  - "\u05D0"
+  - "\u05D1"
+  - "\u05D2"
+  - "\u05D3"
+  - "\u05D4"
+  - "\u05D5"
+  - "\u05D6"
+  - "\u05D7"
+  - "\u05D8"
+  - "\u05D9"
+  - "\u05DB"
+  - "\u05DC"
+  - "\u05DE"
+  - "\u05E0"
+  - "\u05E1"
+  - "\u05E2"
+  - "\u05E4"
+  - "\u05E6"
+  - "\u05E7"
+  - "\u05E8"
+  - "\u05E9"
+  - "\u05EA"
+  _tokens:
+  - Id: "\u05D0"
+    Text: "\u05D0"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D1"
+    Text: "\u05D1"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D2"
+    Text: "\u05D2"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D3"
+    Text: "\u05D3"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D4"
+    Text: "\u05D4"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D5"
+    Text: "\u05D5"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D6"
+    Text: "\u05D6"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D7"
+    Text: "\u05D7"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D8"
+    Text: "\u05D8"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05D9"
+    Text: "\u05D9"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05DB"
+    Text: "\u05DB"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05DC"
+    Text: "\u05DC"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05DE"
+    Text: "\u05DE"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E0"
+    Text: "\u05E0"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E1"
+    Text: "\u05E1"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E2"
+    Text: "\u05E2"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E4"
+    Text: "\u05E4"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E6"
+    Text: "\u05E6"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E7"
+    Text: "\u05E7"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E8"
+    Text: "\u05E8"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05E9"
+    Text: "\u05E9"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  - Id: "\u05EA"
+    Text: "\u05EA"
+    DifficultyLevel: 1
+    Weight: 1
+    Tags:
+    - Letter
+    IsEnabled: 1
+  _caseInsensitive: 0
+  _mapHebrewFinalLetters: 1
+  _stripHebrewDiacritics: 1

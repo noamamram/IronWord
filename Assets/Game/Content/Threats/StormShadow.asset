@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0288b88f5216286418c56d536f391c5d, type: 3}
+  m_Name: StormShadow
+  m_EditorClassIdentifier: TypingDefense.Content::TypingDefense.Content.Threats.ThreatDefinition
+  _id: storm_shadow
+  _prefab: {fileID: 7616050450324120741, guid: 6d82cb6d1207a1d41888a519eb7bbc1c, type: 3}
+  _baseFlightDuration: 16
+  _minFlightDuration: 10
+  _arcHeight: 28
+  _baseScore: 250
+  _spawnCost: 2.2
+  _selectionWeight: 0.35
+  _minTokenLength: 2
+  _maxTokenLength: 4
+  _unlockAfterSeconds: 0
+  _weightGrowthPerMinute: 0.4
+  _visualScale: {x: 80, y: 80, z: 80}
+  _meshForwardEulerOffset: {x: -90, y: 180, z: 0}

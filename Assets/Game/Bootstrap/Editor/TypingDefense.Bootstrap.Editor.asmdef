@@ -1,0 +1,21 @@
+{
+    "name": "TypingDefense.Bootstrap.Editor",
+    "rootNamespace": "TypingDefense.Bootstrap.Editor",
+    "references": [
+        "TypingDefense.Bootstrap",
+        "TypingDefense.Content",
+        "TypingDefense.Domain",
+        "TypingDefense.Presentation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

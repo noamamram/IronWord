@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f86ef64e3aaa2b40a585d0a4c28b014, type: 3}
+  m_Name: GameplayContentCatalog
+  m_EditorClassIdentifier: TypingDefense.Content::TypingDefense.Content.Definitions.GameplayContentCatalog
+  _english: {fileID: 11400000, guid: 14869ac806f5c524a86f7c45b7ff2baa, type: 2}
+  _hebrew: {fileID: 11400000, guid: e7a1b2c3d4e5f60718293a4b5c6d7e8f, type: 2}
+  _defaultMode: {fileID: 11400000, guid: 63eaf081242dd0640ad19542851d74d0, type: 2}
+  _basicThreat: {fileID: 11400000, guid: af40079a6d8c42e44a38c30e07114df2, type: 2}
+  _specialThreat: {fileID: 11400000, guid: d4c8e2a91f7b4e6a8c0d1e2f3a4b5c6d, type: 2}
+  _basicInterceptor: {fileID: 11400000, guid: b8e4c2a19f7d4c3e9a1b5d6e7f8a9b0c, type: 2}

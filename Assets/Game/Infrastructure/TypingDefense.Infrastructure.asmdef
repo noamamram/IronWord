@@ -1,0 +1,19 @@
+{
+    "name": "TypingDefense.Infrastructure",
+    "rootNamespace": "TypingDefense.Infrastructure",
+    "references": [
+        "TypingDefense.Domain",
+        "TypingDefense.Application",
+        "TypingDefense.Simulation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
