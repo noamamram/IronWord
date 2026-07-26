@@ -167,5 +167,16 @@ Packages/packages-lock.json linguist-generated
 # Spine export file for Unity
 *.skel.bytes            lfs
 
+# Unity WebGL build binaries
+*.data                  lfs
+*.wasm                  lfs
+*.unityweb              lfs
+*.data.br               lfs
+*.wasm.br               lfs
+*.framework.js.br       lfs
+*.data.gz               lfs
+*.wasm.gz               lfs
+*.framework.js.gz       lfs
+
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
