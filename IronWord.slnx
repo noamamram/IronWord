@@ -6,8 +6,8 @@
   <Project Path="TypingDefense.Infrastructure.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="TypingDefense.Content.csproj" />
+  <Project Path="TypingDefense.Bootstrap.Editor.csproj" />
   <Project Path="TypingDefense.Domain.csproj" />
   <Project Path="TypingDefense.Bootstrap.csproj" />
   <Project Path="TypingDefense.Tests.EditMode.csproj" />
-  <Project Path="TypingDefense.Bootstrap.Editor.csproj" />
 </Solution>
